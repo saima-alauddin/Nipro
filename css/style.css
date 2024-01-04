@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+</style>
+/*common start*/
+body{
+	font-family: 'Lato', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #efefef;
+	
+}
+/*common end*/
+
+.banner{
+	background-image: url(../images/banner.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: bottom;
+}
+.b_content{
+	margin: 200px 0;
+}
+.b_content h1{font-family: 'Lato', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #efefef;}
+.b_content p{}
+.b_content a{}
+.b_content a span{}
